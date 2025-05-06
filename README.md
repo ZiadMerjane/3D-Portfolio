@@ -1,3 +1,5 @@
+![Portfolio](https://github.com/user-attachments/assets/496dd9cc-96e6-45b9-8775-f259207e100f)
+
 👋 Introduction
 Welcome to my 3D interactive portfolio, a web-based experience crafted with care using modern JavaScript technologies and voxel-style visuals. This portfolio isn't just a place to list my work—it's a project in itself.
 
